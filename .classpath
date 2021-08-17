@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/icema/Desktop/Workspace/JedCore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/icema/Desktop/Workspace/PKConfigApi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/icema/Desktop/Workspace/ProjectKorra.jar"/>
+	<classpathentry kind="lib" path="C:/Users/icema/Desktop/Workspace/spigot-1.16.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

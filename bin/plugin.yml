@@ -1,0 +1,8 @@
+name: Vulcan
+version: 1.0
+api-version: 1.16
+main: me.zeph.vulcan.vulcan.Vulcan
+depend: [ProjectKorra]
+authors: [Zeph]
+description: Improves lavabending
+loadbefore: [PKConfigApi]

@@ -1,0 +1,11 @@
+me\zeph\vulcan\abilities\LavaTendrilShot.class
+me\zeph\vulcan\abilities\LavaStream$State.class
+me\zeph\vulcan\abilities\LavaLine.class
+me\zeph\vulcan\vulcan\Vulcan.class
+me\zeph\vulcan\abilities\combos\MagmaMelt.class
+me\zeph\vulcan\abilities\Erupt.class
+me\zeph\vulcan\abilities\LavaTendril.class
+me\zeph\vulcan\abilities\LavaPool.class
+me\zeph\vulcan\abilities\LavaStream.class
+me\zeph\vulcan\abilities\IgneousShift.class
+me\zeph\vulcan\listener\AbilityListener.class
